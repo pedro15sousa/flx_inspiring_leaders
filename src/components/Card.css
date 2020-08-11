@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'SEGA LOGO FONT';
+	font-style: normal;
+	font-weight: normal;
+	src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+.name {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 30;
+	color: rgb(255, 255, 255);
+}
+
+.username {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 30;
+	color: rgb(204, 204, 204);
+}
+
+#id {
+	-webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
