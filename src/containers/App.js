@@ -16,6 +16,8 @@ class App extends Component {
 		}
 	}
 
+	/*Test comment*/
+
 	/*The following method will be used in the future to fetch the data from a URL, instead of 
 		reading it from a manually created object file, robots?*/
 	/*componentDidMount() {
